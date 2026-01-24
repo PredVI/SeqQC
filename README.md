@@ -33,5 +33,5 @@ MIT
 
 ## Author
 
-Mohammad ElSharkawy
+Mohammad Elsharkawy
 
