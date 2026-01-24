@@ -15,4 +15,23 @@ It provides functions to import FASTA data and compute common QC metrics such as
 ```r
 # install.packages("remotes")
 remotes::install_github("PredVI/SeqQC")
+```
+
+## Usage
+```r
+library(SeqQC)
+
+seqs <- read_fasta("example.fasta")
+seq_qc(seqs)
+qc_report(seqs)
+
+```
+
+License
+
+MIT
+
+Author
+
+Mohammad ElSharkawy
 
