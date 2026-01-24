@@ -27,11 +27,11 @@ qc_report(seqs)
 
 ```
 
-License
+## License
 
 MIT
 
-Author
+## Author
 
 Mohammad ElSharkawy
 
