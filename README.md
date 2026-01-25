@@ -31,6 +31,12 @@ qc_report(seqs)
 
 MIT
 
+## Citation
+
+If you use SeqQC in your work, please cite:
+
+Elsharkawy, M. T. SeqQC: FASTA Sequence Quality Control Package (R). GitHub repository.
+
 ## Author
 
 Mohammad Elsharkawy
