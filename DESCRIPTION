@@ -1,7 +1,9 @@
 Package: SeqQC
-Title: Sequence Quality Control for FASTA files
+Title: SeqQC: FASTA Sequence Quality Control
 Version: 0.1.0
 Authors@R: person('Mohammad', 'Elsharkawy', email = 'mtalsharkawi21@sci.just.edu.jo', role = c('aut','cre'))
-Description: Functions for importing FASTA files and evaluating quality using statistical metrics (GC%, N-content) and validity checks.
+Description: Tools for quality control of DNA sequences in FASTA files, including GC content, N-content, and sequence validity checks with automated QC reporting.
 License: MIT + file LICENSE
 Suggests: testthat
+Encoding: UTF-8
+LazyData: true
