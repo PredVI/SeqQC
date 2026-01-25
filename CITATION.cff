@@ -3,6 +3,7 @@ message: "If you use this software, please cite it as below."
 authors:
   - family-names: Elsharkawy
     given-names: Mohammad Talat
+orcid: https://orcid.org/0009-0004-8474-8813
 title: "SeqQC: FASTA Sequence Quality Control Package (R)"
 version: "0.1.0"
 date-released: 2026-01-25
