@@ -36,7 +36,7 @@ MIT
 If you use SeqQC in your work, please cite:
 
 Elsharkawy, M. T. (2026). SeqQC: FASTA Sequence Quality Control Package (R). Zenodo.
-https://doi.org/10.5281/zenodo.18369550
+https://doi.org/10.5281/zenodo.18369549
 
 ## Author
 
